@@ -1,7 +1,7 @@
 name: playsite1
 favicon: null
-layout_spectrum: 0.08870775043033063
-typography_spectrum: 0.9822571198455989
+layout_spectrum: 0.24515
+typography_spectrum: 0.83375
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7525857475120574
-  lightness: 0.14509856305085123
-  saturation: 0.5458608502522111
-  rhythmicContrast: 0.40613865409977734
+  brandStrength: 0.625
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
