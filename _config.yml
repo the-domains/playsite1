@@ -1,0 +1,28 @@
+name: playsite1
+favicon: null
+layout_spectrum: 0.08870775043033063
+typography_spectrum: 0.9822571198455989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7525857475120574
+  lightness: 0.14509856305085123
+  saturation: 0.5458608502522111
+  rhythmicContrast: 0.40613865409977734
+purpose: []
